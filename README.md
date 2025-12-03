@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/c955af579f33abe5460eaf6d6af6894c4e50ce545551f7dc4a3de95551e8a3a6/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637a6d76322e676966" width="300" alt="coding illustration"/>
+  <img src="a.gif" width="500" alt="coding illustration"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm AMJED F ALOMISY</h1>
